@@ -5,11 +5,24 @@ img{
     display: none;
 }
 
-p{
+/* p{
     cursor: pointer;
     color: blue;
 }
 
 p:hover{
+    text-decoration: underline;
+} */
+
+.walrus-showing{
+    display: none;
+}
+
+.clickable{
+    cursor: pointer;
+    color: blue;
+}
+
+.clickable:hover{
     text-decoration: underline;
 }
